@@ -1,0 +1,77 @@
+/*
+	Colorized by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+*/
+
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	body
+	{
+	color: #333;
+	}
+
+	body,input,textarea,select
+	{
+		font-size: 11pt;
+	}
+		
+	.divider
+	{
+		margin: 5em 0em;
+	}
+
+/*********************************************************************************/
+/* Logo                                                                          */
+/*********************************************************************************/
+
+	#logo-wrapper
+	{
+	height: 6em;
+	min-height: 6em;
+	background-color: #f7ba3f;
+	color: #000;
+	}
+
+/*********************************************************************************/
+/* Banner                                                                        */
+/*********************************************************************************/
+
+	#banner
+	{
+	padding: 5em 0em;
+	background-color: #f7ba3f;
+	}
+	
+	.homepage #banner
+	{
+		padding: 15em 0em;
+	}
+
+/*********************************************************************************/
+/* Footer                                                                        */
+/*********************************************************************************/
+	
+	#footer
+	{
+	padding: 6em 0em;
+	background-color: #f7ba3f;
+	color: #000;
+	}
+	
+	#footer header
+	{
+	background-color: #f7ba3f;
+	color: #FFF;
+	font-family: "文鼎中楷";
+	}
+	
+	#footer #fbox1 header h2, 
+	#footer #fbox2 header h2
+	{
+	font-size: 1.8em;
+	background-color: #f7ba3f;
+	color: #FFF;
+	}
